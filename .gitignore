@@ -1,0 +1,8 @@
+# MATLAB temporales y caché
+*.asv
+*.m~
+*.slxc
+*.autosave
+slprj/
+*.mex*
+*.mat
